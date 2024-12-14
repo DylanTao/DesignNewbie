@@ -85,9 +85,6 @@ You may use any browser to access the interface on the localhost. The default ro
 ## Start a Full Task Session
 To start a full session, access the endpoint `localhost:3030/Start` and enter a user name. The corresponding user will be set up in the database. Each user name will have 60 minutes to access the session before being blocked.
 
-
-## Authors and Citation
-
 ## Acknowledgement
 This public repo is not meant for production usage and the Web App is set to run on localhost. To securely run the application online, please consider host the application using [nginx](https://nginx.org/en/docs/) or [Apache](https://httpd.apache.org/docs/2.4/).
 
